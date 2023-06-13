@@ -1,0 +1,10 @@
+* paren-util
+
+Utility library for Parenscript
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/gonzojive/paren-util   |
+| commit  | 0562881  |
+| systems | paren-util |
+|---------+-------------------------------------------|
+
